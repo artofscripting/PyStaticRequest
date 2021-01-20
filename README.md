@@ -1,6 +1,6 @@
 # PyStaticRequest
 Request Limiter for URL's 
-
+## copy PyStaticRequest.py to local folder
 ## import PyStaticRequest
 
 ## To create or load data from a URL 
