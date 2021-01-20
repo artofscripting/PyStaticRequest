@@ -1,13 +1,13 @@
 # PyStaticRequest
 Request Limiter for URL's 
 
-import PyStaticRequest
+## import PyStaticRequest
 
-To create or load data from a URL 
+## To create or load data from a URL 
 sr = staticRequest.staticRequest("http://artofscripting.com")
 
-Deletes local content and reloads data
+## Deletes local content and reloads data
 sr.updateRequest()
 
-Using data loaded. 
+## Using data loaded. 
 print(sr.text)
